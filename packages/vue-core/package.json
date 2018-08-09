@@ -1,0 +1,20 @@
+{
+  "name": "vue-core",
+  "version": "2.5.0",
+  "description": "vue core",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Youjingyu/vue.git"
+  },
+  "keywords": [
+    "vue",
+    "core"
+  ],
+  "author": "whale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Youjingyu/vue/issues"
+  },
+  "homepage": "https://github.com/Youjingyu/vue"
+}

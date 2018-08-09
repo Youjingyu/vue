@@ -165,6 +165,12 @@ const builds = {
     dest: resolve('packages/weex-template-compiler/build.js'),
     format: 'cjs',
     external: Object.keys(require('../packages/weex-template-compiler/package.json').dependencies)
+  },
+  'vue-core': {
+    entry: resolve('src/platforms/vue-core/index.js'),
+    dest: resolve('packages/vue-core/index.js'),
+    format: 'umd',
+    env: 'production'
   }
 }
 
