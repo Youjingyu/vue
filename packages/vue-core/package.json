@@ -1,5 +1,5 @@
 {
-  "name": "vue-core",
+  "name": "@whale-you/vue-core",
   "version": "2.5.0",
   "description": "vue core",
   "main": "index.js",
